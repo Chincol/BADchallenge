@@ -1,0 +1,11 @@
+joblib==0.10.2
+matplotlib==1.5.3
+seaborn==0.7.1
+numpy==1.11.1
+wavio==0.0.3
+librosa==0.4.3
+scipy==0.18.1
+ipdb==0.10.1
+Hat==0.0.11dev
+Theano==0.8.2
+scikit_learn==0.18.1
